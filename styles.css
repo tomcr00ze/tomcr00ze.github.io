@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: #F2F3F4; /*anti flash white for less eye sore*/
 }
 
 a {
